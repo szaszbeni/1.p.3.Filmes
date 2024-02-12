@@ -1,1 +1,20 @@
-# 1.p.3.Filmes
+cím;rendező;főszereplő;év;adathordozó;
+A kém;Paul Feig;Melissa McCarthy;2015;Blue-Ray;
+A sötét lovag;Cristopher Nolan;Christian Bale;2008;DVD;
+Éhezők viadala;Gery Ross;Jannifer Lawrence;2012;videó-kazetta;
+Útvesztő;Wes Ball;Dylan O'Brien;2014;Blue-Ray;
+Sikoly;Wes Craven;Neve Cambell;1998;DVD;
+Dune;Denis Vileneuve;Thimothée Chalamet;2021;videó-kazetta;
+Wonka; Paul King;Thimothée Chalamet;2023;Blue-Ray;
+The man from U.N.C.L.E.;Guy Ritchie;Henry Cavill;2015;DVD;
+Split;M.Night Shyamalan; James McAvoy;2016;videó-kazetta;
+Csúcsformában; Brett Rathner;Jackie Chan;1998;Blue-Ray;
+A holló; Alex Proyas; Brandon Lee;1994;DVD;
+Karib tenger kalózai 1.;Gore Verbinski;Johnny Depp;2003;videó-kazetta;
+Daredevil;Mark Steven Johnson;Ban Affleck;2003;Blue-Ray;
+Nope;Jordan Peele;Daniel Kaluuya;2022;DVD;
+The Gentelman;Guy Ritchie; Charlie Hunnam;2019;videó-kazetta;
+I Care a Lot;J. Blaekson;Rosamund Pike;2021;Blue-Ray;
+Infinite;Antoine Fuqua;Mark Wahlberg;2021;DVD;
+Mission Inpossible;Brian De Palma; Tom Cruise;1996;videó-kazetta;
+Star wars;George Lucas;Mark Hamill;1982;Blue-Ray;
