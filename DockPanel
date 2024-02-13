@@ -1,0 +1,20 @@
+<Window x:Class="_3.Filmek_nyilvantartasa.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_3.Filmek_nyilvantartasa"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="589.986" Width="984.644">
+    <DockPanel Margin="-4,-32,-4,-9">
+        <DockPanel LastChildFill="True" Background="LightPink" Margin="-4,0,-2,0">
+            <Label Content="Filmek:" Height="100" Background="Black" DockPanel.Dock="Top" Foreground="White" Margin="-1,0"/>
+            <StackPanel Orientation="Horizontal" DockPanel.Dock="Bottom">
+                
+            </StackPanel> 
+            <Button Content="Left" Width="107" Background="Black" DockPanel.Dock="Left"  Foreground="White"/>
+            <ListBox Width="250" Name="film" Background="Black" DockPanel.Dock="Right" Foreground="White" SelectionChanged="ListBox_SelectionChanged_1"/>
+            <Button Content="center" Width="592" Background="LightPink" Foreground="black" Click="Button_Click"/>
+        </DockPanel>
+    </DockPanel>
+</Window>
